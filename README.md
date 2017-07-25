@@ -21,5 +21,3 @@ This is my first angular app, and I intend to make this as a boilerplate for fut
 - run `npm install`
 - run `npm start` to fire up dev server
 - open browser to [`http://localhost:3000`](http://localhost:3000)
-
-# Workflow

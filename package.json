@@ -1,0 +1,19 @@
+{
+  "name": "first-angular-app",
+  "version": "1.0.0",
+  "description": "My First Angular App",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tnchuntic/first-angular-app.git"
+  },
+  "author": "Thomas Chuntic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tnchuntic/first-angular-app/issues"
+  },
+  "homepage": "https://github.com/tnchuntic/first-angular-app#readme"
+}
